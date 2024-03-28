@@ -3,16 +3,7 @@ This privacy policy applies to the VCON-MSSQL app (hereby referred to as "Applic
 
 
 # Information Collection and Use
-The Application collects information when you download and use it. This information may include information such as
-
-Your device's Internet Protocol address (e.g. IP address)
-The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-The time spent on the Application
-The operating system you use on your mobile device
-The Application does not gather precise information about the location of your mobile device.
-The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
-
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+This Application dont collects any personally identifiable information when you download and use it. The information that the app requires will be retained on your device and it is not collected by us any way.
 
 # Third Party Access
 Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
